@@ -3,7 +3,7 @@
  * Plugin Name: Doctors Information Slider
  * Plugin URI: https://github.com/nisarul-dev/doctors-information-slider
  * Description: A easy lite plugin to show Doctors Information in a slider in organized manner, Use the shortcode [doctors-slider] & Enjoy!
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Nisarul
  * Author URI: https://www.nisarul.com
  * License: GPLv3 or later
